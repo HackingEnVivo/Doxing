@@ -33,7 +33,7 @@ We need partners, if you're interested in support or help contact.
 
 # SECURITY RESEARCHERS
 
-* Victor Bancayan - [@HackinEnVivo](https://twitter.com/HackingEnVivo) - (**CEO at [Hacking Live](https://hackingenvivo.blogspot.com/)**) 
+* Victor Bancayan - [@HackingEnVivo](https://twitter.com/HackingEnVivo) - (**CEO at [Hacking Live](https://hackingenvivo.blogspot.com/)**) 
 * Kelvin Parra - [@nationgoverment](https://twitter.com/nationgoverment) - (**CEO at [Kelvin Security](http://ksecureteam.com/)**)
 
 # HAPPY HUNTING!
