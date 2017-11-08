@@ -8,10 +8,10 @@ The project is open to partners.
 # SUPPORTED DISTRIBUTIONS
 |Distribution | Version Check | supported | status |
 ----------|-------|------|-------|
-|Kali Linux|2017.2 | yes| [![Wercker](https://www.kali.org/)]()   |
-|Parrot Security OS|3.8 |yes| [![Wercker](https://www.parrotsec.org/)]()   |
-|Windows|10 |yes| [![Wercker](https://www.microsoft.com/)]()   |
-|Ubuntu|17.10 |yes| [![Wercker](https://www.ubuntu.com/)]()   |
+|Kali Linux|2017.2 | yes | working   |
+|Parrot Security OS|3.8 |yes | working   |
+|Windows|10 |yes | working   |
+|Ubuntu|17.10 |yes | working   |
 
 # INSTALLATION
 Installation y Descarga de Doxing
