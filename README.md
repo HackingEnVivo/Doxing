@@ -34,7 +34,7 @@ We need partners, if you're interested in support or help contact.
 # PENTESTERS
 
 * Victor Bancayan - [@HackinEnVivo](https://twitter.com/HackingEnVivo) - (**CEO at [Hacking Live](https://hackingenvivo.blogspot.com/)**) 
-* Kelvin Parra - [nationgoverment](https://twitter.com/nationgoverment) - (**CEO at [Kelvin Security](http://ksecureteam.com/)**)
+* Kelvin Parra - [@nationgoverment](https://twitter.com/nationgoverment) - (**CEO at [Kelvin Security](http://ksecureteam.com/)**)
 
 # HAPPY HUNTING!
 (**Atte: [Jey Zeta](https://jeyzeta.wordpress.com/)**)
