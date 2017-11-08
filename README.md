@@ -31,6 +31,9 @@ See [LICENSE](https://github.com/HackingEnVivo/Doxing/blob/master/LICENSE) for m
 
 We need partners, if you're interested in support or help contact.
 
+# Happy Hunting!
+Atte: Jey Zeta
+
 # LINKS
 ```
 Fanpage: https://www.facebook.com/HackingEnVivo/
