@@ -14,7 +14,7 @@ The project is open to partners.
 |Ubuntu|17.10 |yes | working   |
 
 # INSTALLATION
-Installation y Descarga de Doxing
+Installation and download of Doxing
 <pre><i><n>git clone https://github.com/HackingEnVivo/Doxing.git
 sudo python install
 </pre></i></n>
