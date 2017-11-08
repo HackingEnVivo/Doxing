@@ -31,7 +31,7 @@ See [LICENSE](https://github.com/HackingEnVivo/Doxing/blob/master/LICENSE) for m
 
 We need partners, if you're interested in support or help contact.
 
-# PENTESTERS
+# SECURITY RESEARCHERS
 
 * Victor Bancayan - [@HackinEnVivo](https://twitter.com/HackingEnVivo) - (**CEO at [Hacking Live](https://hackingenvivo.blogspot.com/)**) 
 * Kelvin Parra - [@nationgoverment](https://twitter.com/nationgoverment) - (**CEO at [Kelvin Security](http://ksecureteam.com/)**)
