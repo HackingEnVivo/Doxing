@@ -20,7 +20,7 @@ sudo python install
 </pre></i></n>
 
 # USAGE
-Please go to the [Youtube](https://www.youtube.com/c/JeyZeta).
+Please go to the [Youtube](https://youtu.be/SgR_w0Frvl8).
 
 # SUPPORT
 Questions, bugs or suggestions to : hackinglivebooking@gmail.com
