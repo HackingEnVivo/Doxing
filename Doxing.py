@@ -29,7 +29,7 @@ def menu():
 \033[1;32m 1. Pipl 	 \033[1;32m 7. Sis            \033[1;32m 13. Censo           \033[1;32m19. Sanciones   \033[1;32m 25. Direccion
 \033[1;32m 2. Dni	 	 \033[1;32m 8. FecNac         \033[1;32m 14. EstadoDoc    \033[1;32m   20. Sat 	 \033[1;32m 26. SkypeIp
 \033[1;32m 3. EstCiv    	 \033[1;32m 9. Credito       \033[1;32m  15. BuscarDatos  \033[1;32m   21. Runt  	 \033[1;32m 27. Multas
-\033[1;32m 4. Operdora    \033[1;32m 10. Sentinel       \033[1;32m 16. Certificados   \033[1;32m 22. Libreta   \033[1;32m  28. Username
+\033[1;32m 4. Operdora    \033[1;32m 10. Sentinel       \033[1;32m 16. Certificados   \033[1;32m 22. Libreta    \033[1;32m  28. Username
 \033[1;32m 5. Ruc       	\033[1;32m 11. ExifData       \033[1;32m 17. Licencia  	 \033[1;32m23. StalkScan  \033[1;32m  29. About
 \033[1;32m 6. Tinfoleak   \033[1;32m 12. Acreditacion   \033[1;32m 18. Curp          \033[1;32m  24. Colegiados  \033[1;32m 30. Exit
 
